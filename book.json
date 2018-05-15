@@ -1,0 +1,44 @@
+{
+    "author": "ethan-funny",
+    "description": "introduction to flask web development",
+    "extension": null,
+    "generator": "site",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "My Blog": "https://funhacks.net"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "toc": true,
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": false
+        },
+        "disqus": {
+            "shortName": "funhacks"
+        }
+    },
+    "title": "Flask Web 开发入门",
+    "variables": {}
+}
