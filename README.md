@@ -47,21 +47,6 @@ Python 中有许多 [Web 开发框架](https://wiki.python.org/moin/WebFramework
 | 2016-09-10 | 发布版本 v1.0，包含基本的路由和视图，模板引擎，部署等 |
 | 2016-08-22 | 基本完成初稿 |
 
-## 联系我
-
-如果你对于本书有什么建议或意见，欢迎批评指正，并联系我。
-
-- [个人主页][8]
-- [GitHub][9]
-- [Twitter][10]
-
-## 支持我
-
-如果你觉得本书对你有所帮助，不妨请我喝杯咖啡，感谢支持！
-
-<img src='http://o9txbs6d7.bkt.clouddn.com/WechatPay.png' width='300'>
-
-<img src='http://o9txbs6d7.bkt.clouddn.com/Ali_Pay.png' width='300'>
 
 
 [1]:	https://www.djangoproject.com/
